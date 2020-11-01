@@ -6,3 +6,5 @@
 Josh ...
 
 Learning to code, one commit at a time.
+
+Starting off with JS. Wish me luck!
